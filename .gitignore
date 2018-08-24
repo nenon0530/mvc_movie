@@ -136,3 +136,15 @@ packages/Microsoft.ApplicationInsights.DependencyCollector.2.5.1/content/Applica
 packages/Microsoft.ApplicationInsights.DependencyCollector.2.5.1/Microsoft.ApplicationInsights.DependencyCollector.2.5.1.nupkg
 packages/Microsoft.ApplicationInsights.Agent.Intercept.2.4.0/Microsoft.ApplicationInsights.Agent.Intercept.2.4.0.nupkg
 packages/Microsoft.ApplicationInsights.2.5.1/Microsoft.ApplicationInsights.2.5.1.nupkg
+packages/EntityFramework.6.2.0/lib/net40/EntityFramework.SqlServer.xml
+packages/EntityFramework.6.2.0/content/net40/Web.config.transform
+packages/EntityFramework.6.2.0/tools/EntityFramework.psd1
+packages/EntityFramework.6.2.0/lib/net45/EntityFramework.xml
+packages/EntityFramework.6.2.0/tools/install.ps1
+packages/EntityFramework.6.2.0/tools/init.ps1
+packages/EntityFramework.6.2.0/lib/net45/EntityFramework.SqlServer.xml
+packages/EntityFramework.6.2.0/lib/net40/EntityFramework.xml
+packages/EntityFramework.6.2.0/content/net40/App.config.transform
+packages/EntityFramework.6.2.0/EntityFramework.6.2.0.nupkg
+packages/EntityFramework.6.2.0/tools/about_EntityFramework.help.txt
+packages/EntityFramework.6.2.0/tools/EntityFramework.psm1
